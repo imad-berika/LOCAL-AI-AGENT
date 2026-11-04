@@ -1,5 +1,5 @@
 """Interactive Q&A about a pizza restaurant, answered from customer reviews
-retrieved from the vector store (see vector.py)."""
+retrieved from the vector store ""
 
 from langchain_ollama.llms import OllamaLLM
 from langchain_core.prompts import PromptTemplate
