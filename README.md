@@ -1,4 +1,4 @@
-## Local AI Agent — Pizza Restaurant Reviews Q&A
+## Local AI Agent — Pizza Restaurant Reviews
 
 A fully local retrieval-augmented generation (RAG) agent. Ask questions about a pizza restaurant in plain language; the agent retrieves the most relevant customer reviews and answers using only those reviews.
 
