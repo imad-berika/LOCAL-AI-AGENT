@@ -7,7 +7,7 @@ Everything runs on your machine through [Ollama](https://ollama.com) — no API 
 ## How it works
 
 ```
-question ──► Chroma vector store ──► top 5 similar reviews ──► prompt ──► llama3.2 ──► answer
+question ----> Chroma vector store ----> top 5 similar reviews ----> prompt ----> llama3.2 ----> answer
              (mxbai-embed-large)
 ```
 
